@@ -1,4 +1,4 @@
-const apiBaseUrl = "http://localhost:8080";
+const apiBaseUrl = "http://localhost:8088";
 
 async function startGame() {
     try {
